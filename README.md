@@ -3,7 +3,7 @@
 Hello Git
 
 # Poru-san
-Hello there buddy.
+Hello there Rairu-san.
 
 # Another test for Poru-san
 It's Me Poru-san
