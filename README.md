@@ -3,7 +3,10 @@
 Hello Git
 
 # Poru-san
-Hi there buddy.
+Hello there Rairu-san.
 
 # Another test for Poru-san
 It's Me Poru-san
+
+# Feature branch
+Test if feature creation is ok
